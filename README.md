@@ -114,7 +114,6 @@ event-management-backend/
    ```
    MONGO_URI=your_mongodb_connection_string
    JWT_SECRET=your_secret_key
-   CLOUDINARY_URL=your_cloudinary_url
    FRONTEND_URL=http://localhost:5173
    ```
 
@@ -125,3 +124,6 @@ event-management-backend/
 
 ## 📸 Screenshots
 🚀 **Coming Soon...**
+
+
+## 🌍 Deployment
