@@ -129,6 +129,6 @@ event-management-backend/
 
 ## 🌍 Deployment
 The backend is deployed on **Render/Railway**.  
-🔗 **Live URL:** [[Deployment](https://eventify-tcza.onrender.com)](#)
+🔗 **Live URL:** [(https://eventify-tcza.onrender.com)]
 
 ---
