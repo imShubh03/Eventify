@@ -58,12 +58,6 @@ event-management-frontend/
    npm run dev
    ```
 
-## 🌍 Deployment
-The frontend is deployed on **Vercel**.  
-🔗 **Live URL:** [Frontend Deployment](#)
-
----
-
 
 # Event Management Platform - Backend
 
@@ -124,11 +118,17 @@ event-management-backend/
    npm run dev
    ```
 
-## 📸 Screenshots
-🚀 **Coming Soon...**
+## 📸 Screenshots Postman Backend Testing
+![Screenshot (351)](https://github.com/user-attachments/assets/82f06c49-5e9c-4462-852b-f14d16716b24)
+![Screenshot (352)](https://github.com/user-attachments/assets/b405254d-1fb4-4538-a8dc-70ed5e9bffa1)
+![Screenshot (353)](https://github.com/user-attachments/assets/eeb51388-9d1e-4a15-86c1-415ab740e76b)
+![Screenshot (354)](https://github.com/user-attachments/assets/76d44df9-7830-4345-aab6-67c08b18ecdc)
+![Screenshot (355)](https://github.com/user-attachments/assets/3fa75fa1-3d86-448b-9af6-ae9575347b31)
+![Screenshot (350)](https://github.com/user-attachments/assets/4180950c-7cd4-41dd-89ec-a0bb794bcd31)
+
 
 ## 🌍 Deployment
 The backend is deployed on **Render/Railway**.  
-🔗 **Live URL:** [Backend Deployment](#)
+🔗 **Live URL:** [[Deployment](https://eventify-tcza.onrender.com)](#)
 
 ---
