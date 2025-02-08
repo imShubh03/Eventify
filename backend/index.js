@@ -19,7 +19,9 @@ app.use(express.json());
 
 app.use("/api/users", userRoutes);
 app.use("/api/events", eventRoutes);
-
+app.get('/',(req,res)=>{
+    res.send("Hello")
+})
 io.on("connection", (socket) => {
     console.log("New client connected");
     socket.on("joinEvent", (eventId) => socket.join(eventId));
